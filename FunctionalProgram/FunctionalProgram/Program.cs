@@ -20,7 +20,9 @@ namespace BasicCorePrograms
             powerof2.Power(num);
 
             Leapyear leapyear= new Leapyear();
-            leapyear.year();
+            leapyear.Leapyear();
+
+
         }
     }
 }
