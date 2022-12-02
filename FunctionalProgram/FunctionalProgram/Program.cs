@@ -20,9 +20,10 @@ namespace BasicCorePrograms
             powerof2.Power(num);
 
             Leapyear leapyear= new Leapyear();
-            leapyear.Leapyear();
+            leapyear.Main();
 
-
+            Evenodd evenodd = new Evenodd();
+            evenodd.digit;
         }
     }
 }
